@@ -1,16 +1,25 @@
-## Hi there 👋
+# Alejandro Escobar ⚙️
 
-<!--
-**Alejandroesbr/Alejandroesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focusing on Backend. I like building systems that actually work and understanding what's going on under the hood. No fluff, just code and logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech & Tools
+* **Currently using:** Java, JavaScript, Python.
+* **Basics** HTML5, CSS3, Git.
+* **Learning:** Scalable architectures and backend optimization.
+
+### 🎯 What I'm Up To
+* 🚀 Strengthening my backend foundations.
+* 🛠 Building projects to solve real-world logic problems.
+
+### 📫 Contact
+* **LinkedIn:** Alejandroescobare@outlook.com
+* **Location:** Colombia 🇨🇴
+
+---
+
+### ⚡ About me
+* 🥋 I train **BJJ** and **Kickboxing**.
+* ☕ Former **Barista & Bartender** — I know how to handle pressure and make a decent drink.
+* 📚 Currently looking to learn a third language.
