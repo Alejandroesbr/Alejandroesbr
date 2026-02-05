@@ -5,7 +5,7 @@ Software Engineering student focusing on Backend. I like building systems that a
 ---
 
 ### 🛠 Tech & Tools
-* **Currently using:** Java, JavaScript, Python.
+* **Currently using:** Java.
 * **Basics** HTML5, CSS3, Git.
 * **Learning:** Scalable architectures and backend optimization.
 
@@ -14,7 +14,7 @@ Software Engineering student focusing on Backend. I like building systems that a
 * 🛠 Building projects to solve real-world logic problems.
 
 ### 📫 Contact
-* **LinkedIn:** Alejandroescobare@outlook.com
+* **LinkedIn:** www.linkedin.com/in/alejandroesbr
 * **Location:** Colombia 🇨🇴
 
 ---
