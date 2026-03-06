@@ -5,9 +5,9 @@ Software Engineering student focusing on Backend. I like building systems that a
 ---
 
 ### 🛠 Tech & Tools
-* **Currently using:** Java.
+* **Currently using:** Python.
 * **Basics** HTML5, CSS3, Git.
-* **Learning:** Scalable architectures and backend optimization.
+* **Learning:** learning Python variables and structure.
 
 ### 🎯 What I'm Up To
 * 🚀 Strengthening my backend foundations.
