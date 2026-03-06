@@ -12,11 +12,6 @@ Software Engineering student focusing on Backend. I like building systems that a
 ### 🎯 What I'm Up To
 * 🚀 Strengthening my backend foundations.
 * 🛠 Building projects to solve real-world logic problems.
-
-### 📫 Contact
-* **LinkedIn:** www.linkedin.com/in/alejandroesbr
-* **Location:** Colombia 🇨🇴
-
 ---
 
 ### ⚡ About me
