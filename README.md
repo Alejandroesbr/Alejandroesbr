@@ -1,20 +1,37 @@
-# Alejandro Escobar ⚙️
+# Alejandro Escobar | Backend Developer ⚙️
 
-Software Engineering student focusing on Backend. I like building systems that actually work and understanding what's going on under the hood. No fluff, just code and logic.
+I am a Software Engineering student focused on building clean, high-performance backend systems. I enjoy solving complex logic problems, designing efficient databases, and understanding exactly what happens under the hood. No fluff, just clean code and solid architecture.
 
 ---
 
-### 🛠 Tech & Tools
-* **Currently using:** Python.
-* **Basics** HTML5, CSS3, Git.
-* **Learning:** learning Python variables and structure.
+### 🛠️ Tech Stack & Tools
 
-### 🎯 What I'm Up To
-* 🚀 Strengthening my backend foundations.
-* 🛠 Building projects to solve real-world logic problems.
+* **Backend & Languages:** Python (FastAPI), TypeScript (Node.js).
+* **Databases & Tools:** PostgreSQL, Git, GitHub Workflows.
+* **Currently Learning:** Advanced asynchronous patterns, Docker containerization, and automated Unit Testing.
+
 ---
 
-### ⚡ About me
-* 🥋 I train **BJJ** and **Kickboxing**.
-* ☕ Former **Barista & Bartender** — I know how to handle pressure and make a decent drink.
-* 📚 Currently looking to learn a third language.
+### 🚀 Featured Project
+
+#### 📍 [TourPoints Backend](https://github.com)
+A gamified tourism platform API built with **FastAPI** and **PostgreSQL**.
+* **Key Features:** Implements secure JWT authentication, geolocation query structures, POIs management, and AI-driven recommendations.
+* **Architecture:** Structured with clean-layered separation to ensure modularity and scalability.
+
+---
+
+### ⚡ About Me & Soft Skills
+
+* 🥋 **Discipline & Focus:** I actively train BJJ and Kickboxing, which keeps my problem-solving mindset sharp and disciplined under pressure.
+* ☕ **High-Pressure Execution:** As a former Barista & Bartender, I mastered effective team communication, client management, and delivering results in high-stress, fast-paced environments.
+* 💬 **Languages:** Spanish (Native) | English (Professional / C1).
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Alejandro's GitHub Stats" />
+</p>
+
