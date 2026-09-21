@@ -1,7 +1,7 @@
 <!-- Header animado (capsule-render) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Ancizar%20Escobar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Ancizar Escobar - Software Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Alejandro%20Escobar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Alejandro Escobar - Software Engineer" width="100%"/>
 
 <!-- Texto que se escribe solo (readme-typing-svg) -->
 <a href="https://github.com/Alejandroesbr">
@@ -43,7 +43,7 @@
 ## About me
 
 ```python
-class AncizarEscobar:
+class AlejandroEscobar:
     role = "Software Engineer"
     location = "Barranquilla, Colombia"
     languages = {"Spanish": "native", "English": "B2+ (professional)"}
@@ -155,13 +155,6 @@ class AncizarEscobar:
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </td>
-    <td style="padding-top:20px; padding-bottom:20px; border-bottom:1px solid #21262d; vertical-align:top;">
-      • REST API with FastAPI & PostgreSQL<br/>
-      • JWT authentication & layered architecture<br/>
-      • Schema migrations with Alembic<br/>
-      • Rewards system & points ledger<br/>
-      • Containerized with Docker
-    </td>
   </tr>
   <tr>
     <td style="padding-top:20px; padding-bottom:20px; border-bottom:1px solid #21262d; vertical-align:top;">
@@ -206,8 +199,8 @@ class AncizarEscobar:
     </td>
   </tr>
   <tr>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2024 → now</strong></td>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
+    <td style="padding-top=15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2024 → now</strong></td>
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
       <strong>B.S. Software Engineering, Universidad Manuela Beltran</strong><br/>
       • Computer science fundamentals<br/>
       • Software architecture & design patterns<br/>
@@ -217,22 +210,14 @@ class AncizarEscobar:
   </tr>
   <tr>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2025</strong></td>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
-      <strong>Customer Support Specialist @ OP360</strong><br/>
-      • Bilingual support (English/Spanish)<br/>
-      • Service-level KPI management<br/>
-      • Zoho CRM & RingCentral expertise<br/>
-      • High-volume customer interactions
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
+      <strong>Customer Support Specialist @ OP360</strong>
     </td>
   </tr>
   <tr>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2024</strong></td>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
-      <strong>Healthcare Customer Support @ Atlantic Quantum Innovations</strong><br/>
-      • High-volume bilingual support<br/>
-      • Medical referral systems<br/>
-      • CRM accuracy & compliance<br/>
-      • Fast-paced healthcare environment
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2024</strong></td>
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
+      <strong>Healthcare Customer Support @ Atlantic Quantum Innovations</strong>
     </td>
   </tr>
 </table>
