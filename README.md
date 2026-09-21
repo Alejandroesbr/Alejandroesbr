@@ -45,12 +45,12 @@ class AlejandroEscobar:
     role = "Software Engineer"
     location = "Barranquilla, Colombia"
     languages = {"Spanish": "native", "English": "B2+ (professional)"}
-    
+
     education = [
         "B.S. Software Engineering: Universidad Manuela Beltran (2024 - present)",
         "Software Development Program: Riwi (2026 - present)",
     ]
-    
+
     # Unique value proposition: combines technical expertise with strong interpersonal skills
     strengths = [
         "Backend development (Python, Node.js, SQL)",
@@ -59,23 +59,23 @@ class AlejandroEscobar:
         "Technical documentation & collaboration",
         "Problem-solving with user-centered approach"
     ]
-    
+
     focus = [
         "REST APIs & backend systems",
-        "Authentication (JWT) & relational data models", 
+        "Authentication (JWT) & relational data models",
         "Layered architecture: Router -> Service -> Repository -> Model",
         "Database migrations & containerized environments",
         "Building software that serves real human needs"
     ]
-    
+
     def currently(self):
         return {
             "building": "Riwi Cine API (Node.js + TypeScript + Express)",
-            "studying": "Software Engineering + Riwi program", 
+            "studying": "Software Engineering + Riwi program",
             "open_to": "Junior backend opportunities where I can grow",
             "bringing": "Years of customer service experience to technical challenges"
         }
-        
+
     def __str__(self):
         return "Engineer who believes great software starts with understanding people"
 ```
@@ -145,34 +145,6 @@ class AlejandroEscobar:
     <td style="padding-top:20px; padding-bottom:20px; border-bottom:1px solid #21262d; vertical-align:top;">
       <div align="center">
         <pre>
-..........************+**+-:::::+*************.....
-......=#***************=::--:-:=***********##=....
- ...:*************#***=-----=--+*#**%*******#**...
-...=*****#****#%%******=--==---+*****#%%#**#####*..
-..+#*******%%@#****###*====+===*#####**#@%##*####*.
-:**####%%%%*****#######*=+===++#######****#%%###*#*
-**##%#****#%%#%#%#######*++++=#####%%%%%#####*%%%##
-####****###%@%##%@@%####++++=+#%%%%*++++*%%##%**%%#
-******#%@%+*###*+++%%#%#+++==*%%%++++*******%%##**%
-****#%@%+#@@@@@%%#*++@##*++++#%*++*#@@%%%%##*%@%#**
-**##%%=*%@@@%@@%%%%#++%%*++++#==+#@@@@%%%%%%##*%@#*
-*##%*=+%%@@@@@@@@%@@*++%*+++++=++%@@@@@@%%%%%##*%%#
-###*==#@@@@@#@@@@@@@%*++**++*+++%@@@-%@@@@@%@%#**%%
-###+=+%@@@@@@%%@%%@@%***++++++++%@@@%%@@%%@@@@%#*##
-###+++%@@@@@@@@@@%#%%#**++==+=-+@@@@@@@@@@@@@@%#*#%
-###%%##%%%%#%*#%@%%%%%%*====+%%%%%%%@@@@@@@@@@%**#%
-#####%%%%%%%%%%%%%%%%%++===+++%%%%%%@@#@%%@@@%####%
-#########%%%%##%%%%%*==%@%@%%##%%%%%%%%%@@%%%%%@%%%
-####**###%%%%%*=++**+****#***#***+#%%%%#%%%%%%%%%%%
-*########*++#%%%%%##*##########*#*****#%%%%%#%%%%%%
-*####*#++*%%%#*#***########**#####*%%%%#*#%%%%%%%#%
-##+##*=-+**###****************#########%%#**###%%%%
-******-----==+++**+****+*****++**++***#####*+*##%%%
-++***++-----=++++++*++*+*++***+++++++++++++++*##%%#
-=+****=-----====+++**********+++***++*+++*++**####%
-=++*+=-------==++=++++++*******+**+++*+*******####.
-*++++=---:::--===+=+=+++++*******+*****+**********##.
-*+++===--:------==+++++++********************+++*#.
         </pre>
       </div>
       <br/>
