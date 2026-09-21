@@ -18,25 +18,38 @@
 
 <br/>
 
-<!-- Highlights section inspired by yetone -->
+<!-- Highlights section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%99%20GitHub%20Student%20Developer%20Pack-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student Developer Pack">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Riwi%20Software%20Dev-1f6feb?style=for-the-badge&logo=software&logoColor=white" alt="Riwi Software Development">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Backend%20Specialist-0078D4?style=for-the-badge&logo=server&logoColor=white" alt="Backend Specialist">
+  <img src="https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Student Developer Pack">
+  <img src="https://img.shields.io/badge/Riwi%20Software%20Dev-1f6feb?style=for-the-badge&logo=software&logoColor=white" alt="Riwi Software Development">
+  <img src="https://img.shields.io/badge/Backend%20Specialist-0078D4?style=for-the-badge&logo=server&logoColor=white" alt="Backend Specialist">
 </div>
 
 <br/>
 
-## 👨‍💻 About me
+<!-- Animated skills section inspired by asamassekou10 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=400&height=40&lines=Building+Systems+That+Solve+Real+Problems" alt="Animated skills display"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech%20Focus-Backend%20Systems-0078D4?style=for-the-badge" alt="Tech Focus">
+  <img src="https://img.shields.io/badge/Architecture-Layered%20%26%20Scalable-28A745?style=for-the-badge" alt="Architecture">
+  <img src="https://img.shields.io/badge/Methodology-Agile%20%26%20Collaborative-FF9800?style=for-the-badge" alt="Methodology">
+</div>
+
+<br/>
+
+## About me
 
 ```python
 class AncizarEscobar:
     role = "Software Engineer"
-    location = "Barranquilla, Colombia 🇨🇴"
+    location = "Barranquilla, Colombia"
     languages = {"Spanish": "native", "English": "B2+ (professional)"}
     
     education = [
-        "B.S. Software Engineering: Universidad Manuela Beltrán (2024 - present)",
+        "B.S. Software Engineering: Universidad Manuela Beltran (2024 - present)",
         "Software Development Program: Riwi (2026 - present)",
     ]
     
@@ -52,7 +65,7 @@ class AncizarEscobar:
     focus = [
         "REST APIs & backend systems",
         "Authentication (JWT) & relational data models", 
-        "Layered architecture: Router → Service → Repository → Model",
+        "Layered architecture: Router -> Service -> Repository -> Model",
         "Database migrations & containerized environments",
         "Building software that serves real human needs"
     ]
@@ -61,7 +74,7 @@ class AncizarEscobar:
         return {
             "building": "Riwi Cine API (Node.js + TypeScript + Express)",
             "studying": "Software Engineering + Riwi program", 
-            "open_to": "Junior backend opportunities where I can grow 🚀",
+            "open_to": "Junior backend opportunities where I can grow",
             "bringing": "Years of customer service experience to technical challenges"
         }
         
@@ -71,7 +84,7 @@ class AncizarEscobar:
 
 <br/>
 
-## 🛠️ Tech stack & Skills
+## Tech stack & Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,express,fastapi,postgres,mysql,docker,git,github,linux,postman,vscode&perline=7&theme=dark" alt="Tech stack icons"/>
@@ -122,7 +135,7 @@ class AncizarEscobar:
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table style="width:100%; border-collapse:separate;">
   <tr>
@@ -132,7 +145,7 @@ class AncizarEscobar:
   </tr>
   <tr>
     <td style="padding-top:20px; padding-bottom:20px; border-bottom:1px solid #21262d; vertical-align:top;">
-      <h3>🧭 TourPoints Backend</h3>
+      <h3>TourPoints Backend</h3>
       <a href="https://github.com/TourPoints/TourPoints-Backend">GitHub Repository</a><br/>
       <small>Gamified tourism platform</small>
     </td>
@@ -152,7 +165,7 @@ class AncizarEscobar:
   </tr>
   <tr>
     <td style="padding-top:20px; padding-bottom:20px; border-bottom:1px solid #21262d; vertical-align:top;">
-      <h3>🎬 Riwi Cine API</h3>
+      <h3>Riwi Cine API</h3>
       <a href="https://github.com/riwi-cine/riwi--cine-backend">GitHub Repository</a><br/>
       <small>Collaborative movie API (In Progress)</small>
     </td>
@@ -175,7 +188,7 @@ class AncizarEscobar:
 
 <br/>
 
-## 📍 Professional Journey
+## Professional Journey
 
 <table style="width:100%; border-collapse:separate;">
   <tr>
@@ -185,7 +198,7 @@ class AncizarEscobar:
   <tr>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2026 → now</strong></td>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
-      🎓 <strong>Riwi: Software Development Program</strong><br/>
+      <strong>Riwi: Software Development Program</strong><br/>
       • Full-stack development training<br/>
       • Collaborative software engineering practices<br/>
       • Agile methodologies & team workflows<br/>
@@ -195,7 +208,7 @@ class AncizarEscobar:
   <tr>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2024 → now</strong></td>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
-      🎓 <strong>B.S. Software Engineering, Universidad Manuela Beltrán</strong><br/>
+      <strong>B.S. Software Engineering, Universidad Manuela Beltran</strong><br/>
       • Computer science fundamentals<br/>
       • Software architecture & design patterns<br/>
       • Database systems & data modeling<br/>
@@ -205,7 +218,7 @@ class AncizarEscobar:
   <tr>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2025</strong></td>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
-      🎧 <strong>Customer Support Specialist @ OP360</strong><br/>
+      <strong>Customer Support Specialist @ OP360</strong><br/>
       • Bilingual support (English/Spanish)<br/>
       • Service-level KPI management<br/>
       • Zoho CRM & RingCentral expertise<br/>
@@ -215,7 +228,7 @@ class AncizarEscobar:
   <tr>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2024</strong></td>
     <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
-      🩺 <strong>Healthcare Customer Support @ Atlantic Quantum Innovations</strong><br/>
+      <strong>Healthcare Customer Support @ Atlantic Quantum Innovations</strong><br/>
       • High-volume bilingual support<br/>
       • Medical referral systems<br/>
       • CRM accuracy & compliance<br/>
@@ -237,7 +250,7 @@ class AncizarEscobar:
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alejandroesbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
@@ -248,18 +261,6 @@ class AncizarEscobar:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alejandroesbr&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🥋 Beyond the Keyboard
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%AA%20Brazilian%20Jiu--Jitsu-%233498DB?style=for-the-badge" alt="BJJ"/>
-  <img src="https://img.shields.io/badge/%F0%9F%92%AA%20Kickboxing-%23E74C3C?style=for-the-badge" alt="Kickboxing"/>
-  <img src="https://img.shields.io/badge/%F0%9F%94%8B%20Former%20Barista-%238BC34A?style=for-the-badge" alt="Barista"/>
-  <img src="https://img.shields.io/badge/%F0%9F%94%8B%20Former%20Bartender-%23FF9800?style=for-the-badge" alt="Bartender"/>
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Language%20Learner-%239C27B0?style=for-the-badge" alt="Language Learning"/>
 </div>
 
 <br/>
