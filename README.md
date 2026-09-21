@@ -1,19 +1,17 @@
-<!-- Header animado (capsule-render) -->
+<!-- Header with profile picture -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Alejandro%20Escobar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Alejandro Escobar - Software Engineer" width="100%"/>
-
-<!-- Texto que se escribe solo (readme-typing-svg) -->
-<a href="https://github.com/Alejandroesbr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Software%20Engineer;Backend%20Developer%20%26%20Systems%20Thinker;Building%20reliable%20software%20with%20empathy;FastAPI%20%2B%20PostgreSQL%20%2B%20Docker;Node.js%20%2B%20TypeScript%20%2B%20Express" alt="Typing animation" />
-</a>
-
-<br/>
-
-<a href="https://linkedin.com/in/alejandroesbr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-<a href="mailto:alejandroescobare@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" alt="Email"/></a>
-<a href="https://github.com/Alejandroesbr/portafolio"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge" alt="Portfolio"/></a>
-
+  <img src="https://github.com/Alejandroesbr.png" alt="Alejandro Escobar" width="200" height="200" style="border-radius: 50%;"/>
+  
+  <!-- Animated text overlay -->
+  <div style="margin-top: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&height=50&lines=Alejandro+Escobar;Software+Engineer;Building+reliable+systems" alt="Animated title"/>
+  </div>
+  
+  <br/>
+  
+  <a href="https://linkedin.com/in/alejandroesbr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:alejandroescobare@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" alt="Email"/></a>
+  <a href="https://github.com/Alejandroesbr/portafolio"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge" alt="Portfolio"/></a>
 </div>
 
 <br/>
@@ -189,8 +187,8 @@ class AlejandroEscobar:
     <th style="text-align:left; padding-right:20px; width:70%; border-bottom:2px solid #30363d;">Experience & Growth</th>
   </tr>
   <tr>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2026 → now</strong></td>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2026 → now</strong></td>
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
       <strong>Riwi: Software Development Program</strong><br/>
       • Full-stack development training<br/>
       • Collaborative software engineering practices<br/>
@@ -209,7 +207,7 @@ class AlejandroEscobar:
     </td>
   </tr>
   <tr>
-    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2025</strong></td>
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2025</strong></td>
     <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
       <strong>Customer Support Specialist @ OP360</strong>
     </td>
@@ -256,6 +254,8 @@ class AlejandroEscobar:
 
 <br/>
 
+<!-- Footer with potential animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt=""/>
+  <!-- Using a simple animated element for footer -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=6c757d&center=true&vCenter=true&width=400&height=30&lines=Let's+build+meaningful+software" alt="Footer animation"/>
 </div>
