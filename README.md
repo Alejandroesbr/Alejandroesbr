@@ -143,6 +143,39 @@ class AlejandroEscobar:
   </tr>
   <tr>
     <td style="padding-top:20px; padding-bottom:20px; border-bottom:1px solid #21262d; vertical-align:top;">
+      <div align="center">
+        <pre>
+..........************+**+-:::::+*************.....
+......=#***************=::--:-:=***********##=....
+ ...:*************#***=-----=--+*#**%*******#**...
+...=*****#****#%%******=--==---+*****#%%#**#####*..
+..+#*******%%@#****###*====+===*#####**#@%##*####*.
+:**####%%%%*****#######*=+===++#######****#%%###*#*
+**##%#****#%%#%#%#######*++++=#####%%%%%#####*%%%##
+####****###%@%##%@@%####++++=+#%%%%*++++*%%##%**%%#
+******#%@%+*###*+++%%#%#+++==*%%%++++*******%%##**%
+****#%@%+#@@@@@%%#*++@##*++++#%*++*#@@%%%%##*%@%#**
+**##%%=*%@@@%@@%%%%#++%%*++++#==+#@@@@%%%%%%##*%@#*
+*##%*=+%%@@@@@@@@%@@*++%*+++++=++%@@@@@@%%%%%##*%%#
+###*==#@@@@@#@@@@@@@%*++**++*+++%@@@-%@@@@@%@%#**%%
+###+=+%@@@@@@%%@%%@@%***++++++++%@@@%%@@%%@@@@%#*##
+###+++%@@@@@@@@@@%#%%#**++==+=-+@@@@@@@@@@@@@@%#*#%
+###%%##%%%%#%*#%@%%%%%%*====+%%%%%%%@@@@@@@@@@%**#%
+#####%%%%%%%%%%%%%%%%%++===+++%%%%%%@@#@%%@@@%####%
+#########%%%%##%%%%%*==%@%@%%##%%%%%%%%%@@%%%%%@%%%
+####**###%%%%%*=++**+****#***#***+#%%%%#%%%%%%%%%%%
+*########*++#%%%%%##*##########*#*****#%%%%%#%%%%%%
+*####*#++*%%%#*#***########**#####*%%%%#*#%%%%%%%#%
+##+##*=-+**###****************#########%%#**###%%%%
+******-----==+++**+****+*****++**++***#####*+*##%%%
+++***++-----=++++++*++*+*++***+++++++++++++++*##%%#
+=+****=-----====+++**********+++***++*+++*++**####%
+=++*+=-------==++=++++++*******+**+++*+*******####.
+*++++=---:::--===+=+=+++++*******+*****+**********##.
+*+++===--:------==+++++++********************+++*#.
+        </pre>
+      </div>
+      <br/>
       <h3>TourPoints Backend</h3>
       <a href="https://github.com/TourPoints/TourPoints-Backend">GitHub Repository</a><br/>
       <small>Gamified tourism platform</small>
@@ -152,6 +185,13 @@ class AlejandroEscobar:
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td style="padding-top:20px; padding-bottom:20px; border-bottom:1px solid #21262d; vertical-align:top;">
+      • REST API with FastAPI & PostgreSQL<br/>
+      • JWT authentication & layered architecture<br/>
+      • Schema migrations with Alembic<br/>
+      • Rewards system & points ledger<br/>
+      • Containerized with Docker
     </td>
   </tr>
   <tr>
@@ -187,8 +227,8 @@ class AlejandroEscobar:
     <th style="text-align:left; padding-right:20px; width:70%; border-bottom:2px solid #30363d;">Experience & Growth</th>
   </tr>
   <tr>
-    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2026 → now</strong></td>
-    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
+    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2026 → now</strong></td>
+    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;">
       <strong>Riwi: Software Development Program</strong><br/>
       • Full-stack development training<br/>
       • Collaborative software engineering practices<br/>
@@ -197,7 +237,7 @@ class AlejandroEscobar:
     </td>
   </tr>
   <tr>
-    <td style="padding-top=15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2024 → now</strong></td>
+    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2024 → now</strong></td>
     <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
       <strong>B.S. Software Engineering, Universidad Manuela Beltran</strong><br/>
       • Computer science fundamentals<br/>
@@ -207,13 +247,13 @@ class AlejandroEscobar:
     </td>
   </tr>
   <tr>
-    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2025</strong></td>
+    <td style="padding-top:15px; padding-bottom:15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2025</strong></td>
     <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
       <strong>Customer Support Specialist @ OP360</strong>
     </td>
   </tr>
   <tr>
-    <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;"><strong>2024</strong></td>
+    <td style="padding-top:15px; padding-bottom=15px; border-bottom:1px solid #21262d; vertical-align:top;"><strong>2024</strong></td>
     <td style="padding-top:15px; padding-bottom=15px; border-bottom=1px solid #21262d; vertical-align:top;">
       <strong>Healthcare Customer Support @ Atlantic Quantum Innovations</strong>
     </td>
