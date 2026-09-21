@@ -3,16 +3,22 @@
   <img src="Animation.gif" alt="Terminal retro animada" width="800">
 </div>
 
-  <!-- Animated text overlay -->
-  <div style="margin-top: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=e74c3c&center=true&vCenter=true&width=600&height=50&lines=Alejandro+Escobar;Software+Engineer;Building+reliable+systems" alt="Animated title"/>
-  </div>
-  
-  <br/>
-  
-  <a href="https://linkedin.com/in/alejandroesbr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:alejandroescobare@outlook.com"><img src="https://img.shields.io/badge/Email-e74c3c?style=for-the-badge" alt="Email"/></a>
-  <a href="https://github.com/Alejandroesbr/portafolio"><img src="https://img.shields.io/badge/Portfolio-e74c3c?style=for-the-badge" alt="Portfolio"/></a>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=e74c3c&center=true&vCenter=true&width=600&height=50&lines=Alejandro+Escobar;Software+Engineer;Building+reliable+systems" alt="Animated title"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/alejandroesbr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:alejandroescobare@outlook.com">
+    <img src="https://img.shields.io/badge/Email-e74c3c?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Alejandroesbr/portafolio">
+    <img src="https://img.shields.io/badge/Portfolio-e74c3c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 <br/>
